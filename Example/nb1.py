@@ -23,3 +23,12 @@
 # COMMAND ----------
 
 3 + 3
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC #### Heading 4
+
+# COMMAND ----------
+
+4 + 4
