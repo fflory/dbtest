@@ -1,0 +1,6 @@
+{
+  "host": "https://adb-1656461009287936.16.azuredatabricks.net/",
+  "authType": "azure-cli",
+  "clusterId": "0213-154243-jtga2jk8",
+  "workspacePath": "/Repos/felix.flory@databricks.com/dbtest.ide"
+}
